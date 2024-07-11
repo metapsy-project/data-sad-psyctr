@@ -1,5 +1,5 @@
 ## **The `data-sad-psyctr` dataset** 📊 
-[<img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.7782324-blue">](https://doi.org/10.5281/zenodo.7782324) 
+[<img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.12726122-blue">](https://doi.org/10.5281/zenodo.12726122) 
 
 
 
