@@ -1,24 +1,23 @@
 {
-    "database.hits": 21976,
-    "database.hits.duplicates.removed": 16701,
-    "records.screened": 16701,
-    "full.text.assessed.for.eligibility": 2553,
+    "database.hits": 21193,
+    "database.hits.duplicates.removed": 14681,
+    "records.screened": 14681,
+    "full.text.assessed.for.eligibility": 1489,
     "full.text.excluded.reasons": 
     {
-        "Companion papers": 573,
-        "Depression is not an inclusion criterion": 275,
-        "Dissertations": 19,
-        "Effect sizes cannot be estimated": 64,
-        "Maintenenance trial": 122,
-        "No control condition": 57,
-        "No psychotherapy for depression": 222,
-        "No random assignment": 50,
-        "Not available": 46,
-        "Other": 169,
-        "Other language": 19,
-        "Protocol paper": 206,
-        "Stepped care/management program": 27,
-        "Studies with adolescents": 43
+        "Conference proceedings/abstracts": 22,
+        "Follow-up studies/secondary analyses": 80,
+        "Protocols": 54,
+        "Wrong comparator": 7,
+        "Wrong design": 201,
+        "Wrong intervention": 55,
+        "Wrong outcome": 50,
+        "Wrong population": 310,
+        "Other language": 1,
+        "Full-text not available": 66,
+        "Not social anxiety disorder": 455,
+        "No non-experimental condition": 109,
+        "Not diagnosed": 13
     },
-    "included": 661
+    "included": 66
 }
